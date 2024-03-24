@@ -1,0 +1,17 @@
+.places h1{
+    font-size: 30px;
+}
+
+article {
+    float: left;
+    align-content: center;
+    padding: 20px;
+    margin: 20px;
+    width: 390px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+}
+
+.places article h2 {
+    text-align: center;
+}
